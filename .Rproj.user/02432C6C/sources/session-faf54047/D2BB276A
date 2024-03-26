@@ -1,0 +1,33 @@
+{
+    "id": "D2BB276A",
+    "path": "~/Trabajo1/Trabajo2/Trabajo2/Practico1.qmd",
+    "project_path": "Practico1.qmd",
+    "type": "quarto_markdown",
+    "hash": "220283945",
+    "contents": "",
+    "dirty": false,
+    "created": 1711326781300.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "0,0",
+        "scrollLine": "0",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "103:0",
+        "docOutlineSize": "110"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1711415675,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1711415675074,
+    "read_only": false,
+    "read_only_alternatives": []
+}

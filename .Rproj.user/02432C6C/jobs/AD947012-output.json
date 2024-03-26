@@ -1,0 +1,4 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: Practico1.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  title: Practico1\n  author: Matías Salas\n  editor: visual\n  bibliography:\n    - Practico1.bib\n  \n"]
+[1,"[WARNING] Citeproc: citation castillo2012 not found\r\n[WARNING] Citeproc: citation impuesto2021 not found\r\n[WARNING] Citeproc: citation mieresbrevis2020 not found\r\n[WARNING] Citeproc: citation segovia2016 not found\r\n[WARNING] Citeproc: citation solimano2018 not found\r\n"]
+[1,"Output created: Practico1.html\n\nWatching files for changes\nBrowse at http://localhost:3448/\n"]

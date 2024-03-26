@@ -1,0 +1,169 @@
+## Gu?a N?2 - Mat?as Salas & Golam Berlagoscky
+
+#Pasos introductorios---- 
+
+setwd("C:/Users/matia/Desktop/ECLIP/Data")
+
+options(scipen=999) #desactivar notaci?n cientifica
+rm(list=(ls())) #Limpiar memoria de trabajo
+
+install.packages("tidyverse")
+install.packages("table1")
+install.packages("psych")
+install.packages("haven")
+install.packages("sjmisc")
+install.packages("lm.beta")
+install.packages("dplyr")
+install.packages("Hmisc")
+install.packages("PerformanceAnalytics")
+install.packages("sjPlot")
+install.packages("texreg")
+
+library("tidyverse")
+library("table1")
+library("psych")
+library("haven")
+library("sjmisc")
+library("lm.beta")
+library("dplyr")
+library("Hmisc")
+library("PerformanceAnalytics")
+library("sjPlot")
+library("texreg")
+
+#Base de datos
+# Encuesta Longitudinal de Primera Infancia (ELPI), del a?o 2017.
+
+Base <- read_sav("Base Ni?os y Ni?as ELPI III (SPSS).sav")
+View(Base)
+
+#Exploraci?n los datos
+dim(Base)
+names(Base)
+head(Base)
+
+frq(Base$eclis_p1)
+frq(Base$eclis_p2)
+frq(Base$eclis_p3)
+frq(Base$eclis_p4)
+frq(Base$eclis_p5)
+frq(Base$eclis_p6)
+frq(Base$eclis_p7)
+frq(Base$eclis_p8)
+frq(Base$c3_a)
+frq(Base$sexo)
+frq(Base$edad)
+
+
+#Casos perdidos----
+
+#Revisi?n de casos perdidos
+
+table(Base$eclis_p1, exclude = F)
+table(Base$eclis_p2, exclude = F)
+table(Base$eclis_p3, exclude = F)
+table(Base$eclis_p4, exclude = F)
+table(Base$eclis_p5, exclude = F)
+table(Base$eclis_p6, exclude = F)
+table(Base$eclis_p7, exclude = F)
+table(Base$eclis_p8, exclude = F)
+
+Base <- Base %>%
+  select(eclis_p1:eclis_p8, edad, sexo, c3_a)  %>%
+  mutate_all(., ~(as.numeric(.))) %>%
+  na.omit(Base)
+
+frq(Base$eclis_p1)
+
+#Comprobaci?n de eliminaci?n de casos perdidos
+
+table(Base$eclis_p1, exclude = F)
+table(Base$eclis_p2, exclude = F)
+table(Base$eclis_p3, exclude = F)
+table(Base$eclis_p4, exclude = F)
+table(Base$eclis_p5, exclude = F)
+table(Base$eclis_p6, exclude = F)
+table(Base$eclis_p7, exclude = F)
+table(Base$eclis_p8, exclude = F)
+
+
+#Recodificaci?n de variables----
+
+Base <- Base %>%
+  mutate(sexo_recod=case_when(sexo==1 ~ 1, sexo==2 ~ 0, TRUE~ NA_real_))%>%
+  select(sexo_recod, c3_a, eclis_p1, eclis_p2, eclis_p3, eclis_p4, eclis_p5, eclis_p6, eclis_p7, eclis_p8, edad)
+
+
+#Descriptivos
+table1(~ ., 
+       data = Base)
+
+ECLIS <- Base %>%
+  select(eclis_p1:eclis_p8)  %>%
+  mutate_all(., ~(as.numeric(.)))
+
+table1(~ ., 
+       data = ECLIS)
+
+
+
+#Revertimos la variable 
+Base[ ,"eclis_p3"] = 5 - Base[ ,"eclis_p3"]
+
+
+
+#Alpha de Cronbach----
+psych::alpha(ECLIS)
+
+#borremos el ítem V16 para  mejorar ajuste
+psych::alpha(ECLIS[,c(1:2,4:8)]) 
+
+
+#Estimaci?n promedio
+#Escala percpeci?n clima socio-escolar
+
+Base <- Base %>%
+  mutate(ECLIS = (eclis_p1+eclis_p2+eclis_p4+eclis_p5+eclis_p6+eclis_p7+eclis_p8)/7)
+
+
+descr(Base$ECLIS)
+
+#Correlaciones----
+
+na.omit(select(Base, ECLIS, edad, c3_a))
+
+variable_corr <- na.omit(select(Base, ECLIS, edad, c3_a))
+
+tab_corr(variable_corr)
+
+#Selecci?n de variables modelo de regresi?n
+Base_2.0 <- Base %>%
+  mutate(Notas=case_when(c3_a >=1 & c3_a <= 3 ~ 1, c3_a==4 ~ 0, TRUE~ NA_real_))%>%
+  select(sexo_recod, ECLIS, Notas, edad)
+
+#Regresi?n lineal----
+#Modelo general
+
+modelo1 = lm(formula = ECLIS~edad, data=Base_2.0)
+modelo2 = lm(formula = ECLIS~edad+Notas, data=Base_2.0)
+modelo3 = lm(formula = ECLIS~edad+Notas+edad*sexo_recod, data=Base_2.0)
+
+screenreg(l=list(modelo1,modelo2,modelo3), 
+          single.row = TRUE, 
+          stars = c(0.001,0.01, 0.05))
+
+lm.beta(modelo1)
+lm.beta(modelo2)
+lm.beta(modelo3)
+
+sjPlot::tab_model(list(modelo1, modelo2, modelo3),
+                  show.ci=FALSE, 
+                  show.reflvl = TRUE,
+                  p.style = "numeric_stars", 
+                  dv.labels = c("Modelo 1", "Modelo 2", "Modelo 3"), 
+                  string.pred = "Predictores", string.est = "β", 
+                  string.intercept = "(Intercepto)", 
+                  digits = 3, 
+                  encoding =  "UTF-8",
+                  lang = "es")  
+

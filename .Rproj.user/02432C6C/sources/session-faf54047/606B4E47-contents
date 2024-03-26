@@ -1,0 +1,22 @@
+
+
+setwd("C:/Users/matia/Documents/Coes")
+
+
+library("tidyverse")
+library("table1")
+library("psych")
+library("haven")
+library("sjmisc")
+library("lm.beta")
+library("dplyr")
+library("Hmisc")
+library("PerformanceAnalytics")
+library("sjPlot")
+library("texreg")
+
+
+Base <- read_sav("ELSOC_W01_v4.01_SPSS.sav")
+
+Base$c18_11
+table(Base$c18_11)
