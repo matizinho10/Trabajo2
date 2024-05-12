@@ -1,0 +1,398 @@
+---
+title: "Practico 3"
+format: html
+editor: visual
+Bibliography: Practico2.bib
+link-citations: true 
+---
+
+## Práctico 3
+
+### Percepción de Desigualdad para el año 2016
+
+Chile es reconocido de manera internacional como un paí­s estable economicamente, con grandes recursos naturales y un clima diverso. La economí­a en Chile está condicionada por el modelo neoliberal establecido en los años 80 por medio de la Dictadura militar, esto quiere decir que existe la libre competencia, generando­ una gran diversificación de servicios. Tal es el impacto que genera el paí­s a nivel latinoamericano que Chile obtiene uno de los niveles más altos en Latinoamerica y el Caribe de producto interno bruto por habitantes, generando así un camino hacia una economí­a más desarrollada y rica ([**solimano2018?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-solimano2018)). Asimismo, Chile se ha mantenido en un alza permanente en los últimos 35 años a traves de la creación de acuerdos internacionales y polí­ticas nacionales. De esta manera lo evidencia el Banco mundial estableciendo a Chile como unas de las economí­as latinas de mas rápido crecimiento reduciendo los niveles de pobreza de un 26% a un 7,9% ([**mieresbrevis2020?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-mieresbrevis2020)).
+
+Pese a este constante crecimiento se logra evidenciar grandes concentraciones de ingresos que abarcan los sectores con mayor poder adquisitivo del país, en que según los Sociologos Atria & Otero donde ambos í­ndican que se aprecia que tan solo el top 1% chileno más rico accede al 30% del total de la recaudación nacional, mientras que el 50% más pobre solamente presenta el 10% total nacional ([**impuesto2021?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-impuesto2021)). Tal acción permite un mayor desarrollo económico hacia estos sectores privilegiados, guiados principalmente por grandes grupos empresariales los cuales continuan aumentando sus recursos, condicionando este desarrollo del paí­s a un imperceptible progreso que recae en cierto porcentaje de la elite. En consecuencia, se produce una desigualdad económica evidente en base a la redistribución de impuestos ya que no se cobran impuestos más altos a quienes poseen mayores ingresos y tienen mayor capacidad de pago.
+
+A su vez, la desigualdad posee caracterí­sticas negativas que afrontan una serie de consecuencias en las sociedades en las que esta se desarrolla con mayor preponderancia y evidencia. Como relevancia sociológica se tomarán en cuenta tres efectos de las diferencias económicas tratados por Atrí­a & Otero en Impuestos justos para el Chile que Viene (2021). El primero es que la cohesión entre grupos heterogeneos, de extremos diferentes, resulta cada vez más compleja. Lo segundo es que se pierde la identidad de la meritocracia ya que las ventajas sociales son productos heredados generacionalmente, deshaciendo el derecho a la igualdad de oportunidades. Por último, incrementa las diferencias económicas entre los altos y bajos ingresos, para así­ seguir fortaleciendo a los grupos dominantes. Tales efectos actúan de manera interseccional confiriendo un fenómeno amplio de conflicto social ([**impuesto2021?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-impuesto2021)).
+
+Si bien los datos permiten evidenciar la problemática de la desigualdad, es totalmente contrario la sensacipon que los ciudadanos chilenos perciben de la desigualdad económica en el paí­s. En base a los datos presentados en el Estudio longitudinal social de Chile del año 2016 (Ola I) se constata una visión negativa respecto a los índices de desigualdad económica, siendo 2.568 encuestados de un total de 2.913 casos los que consideran que en Chile las diferencias de ingresos son demasiado grandes. Es por esto que, consideraremos como propuesta central a investigar el grado de percepción de desigualdad que poseen los chilenos y chilenas según su condición socioeconomica, con tal de poder identificar las sensaciones y pensamientos que tienen las clases sociales.
+
+Sobre la base, contemplaremos en la presente investigación como Desigualdad Económica la aproximación que se concentra en la percepción sobre la distribución económica sin un componente evaluativo, con tal de definir la sensación del nivel de desigualdad económica que existe en la sociedad chilena ([**castillo2012?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-castillo2012)).
+
+A la vez, teóricamente se expresan dos hipótesis que adjudican dos factores disimiles que afectan la percepción de desigualdad. En un primer término (Evans et al., 1992; Schattschneider, 1960 como se cita en Segovia & Gamboa, 2015) puede variar respecto al nivel económico que los involucrados posean al momento de la encuesta. En este sentido, las personas que resulta que obtienen una mayor percepción de desigualdad tienden a estar dentro de los grupos con menores ingresos, ya que se mantienen directamente impactados por los efectos de la desigualdad, dado esto exhibiran una mayor preocupación hacia la problemática y tenderán a evaluar con mayor rigor y negatividad los niveles alcanzados. Mientras que, como segundo término la estimación de ingresos, es decir, la percepción de desigualdad es mayor en grupos con ingresos y niveles educacionales más altos, ya que al tener esta caracterí­stica tenderán a acertar con mayor facilidad y tener mayor conocimiento sobre el problema. Castillo et al., 2012; Bartels, 2008; McCall, 2005; 2013; Page & Jacobs, 2009 como se cita en ([**segovia2016?**](https://matizinho10.github.io/Trabajo2/Practico1.html?classId=d51c16eb-7c4f-40d6-9b62-8b7013dfbe5d&assignmentId=aa32e546-50cb-42bd-9620-0c4d6e9e1d1d&submissionId=81cdbfa4-0af6-3ead-fa35-64411a3cd079#ref-segovia2016)).
+
+De acuerdo con lo anterior y en base a la información recabada, para la presenta investigación se considerarácomo hipótesis el primer término, por lo que a medida en que menores ingresos poseen los encuestados mayor percepción de desigualdad evidencian.
+
+### Base de datos
+
+```{r}
+pacman::p_load(sjlabelled,
+               dplyr, #Manipulacion de datos
+               stargazer, #Tablas
+               sjmisc,# Tablas
+               kableExtra, #Tablas
+               sjPlot, #Tablas y gráficos
+               corrplot, # Correlaciones
+               sessioninfo, # Información de la sesión de trabajo
+               ggplot2) # Para la mayoría de los gráficos
+```
+
+```{r}
+library("tidyverse")
+library("table1")
+library("psych")
+library("haven")
+library("magrittr")
+library("sjmisc")
+library("lm.beta")
+library("dplyr")
+library("Hmisc")
+library("PerformanceAnalytics")
+library("sjPlot")
+library("texreg")
+library("car")
+library("pacman")
+library("Rcpp")
+library("corrplot")
+```
+
+```{r}
+setwd("C:/Users/matia/Documents/Trabajo1/Trabajo2/Trabajo2")
+```
+
+```{r}
+Base <- read_sav("ELSOC_Long_2016_2022_v1.00.sav")
+```
+
+### Variables
+
+Para la realización de la investigación se tomaron en cuenta 7 variables de la Base del SOC del COES del año 2016 las cuales nos guiarán en el proceso evaluativo de la percepción de desigualdad que se sentía en esos años en la población Chilena. Entre estas encontramos:
+
+1\) C18_11: En chile, las diferencias de ingresos son demasiado grandes.
+
+2\) d19: ¿Y cuan justa o injusta cree ud que es la diferencia en la situación de vida entre las personas de clase social alta y las de clase social baja en Chile?.
+
+3\) m0_sexo: sexo de los encuestados.
+
+4\) m0_edad: edad de los encuestados, aquí tomaremos los más jovenes, entre 18 a 25 años.
+
+5\) d02_01: Es justo que las personas de altos ingresos tengan mejores pensiones que las personas de ingresos más bajos.
+
+6\) d02_02 : Es justo que las personas de altos ingresos tengan mejor educación para sus hijos que las personas de ingresos más bajos.
+
+7\) d02_03: Es justo que las personas de altos ingresos puedan acceder a una mejor atención de salud que las personas de ingresos más bajos.
+
+```{r}
+Base_elsoc <- Base %>% select(Ingresos=d19, #Grandes diferencias de ingresos
+                              Desigualdad=c18_11, #Diferencia justa o injusta
+                              Edad=m0_edad, #Edad
+                              Sexo=m0_sexo, #Sexo
+                              Pensiones=d02_01, #Percepción propia 
+                              Educacion=d02_02, #Percepción de la familia
+                              Salud=d02_03) #Percepción de los hijos
+```
+
+Estas fueron modificadas para una mejor implementación, quitando la datificación perdida, en conjunto con los datos que arrojan distintos errores en el momento que se realizó la encuesta. Asimismo, se le reasignaron nombres más sustantivos a las variables para que estas sean aún más identificables.
+
+c18_11 = Desigualdad\
+d19 = Ingresos\
+m0_sexo = Sexo\
+m0_edad = Edad\
+d02_01 = Pensiones\
+d02_02 = Educacion\
+d02_03 = Salud
+
+```{r}
+Base_elsoc_filt <- subset(Base_elsoc, Edad >= 18 & Edad <= 25)
+```
+
+### Datos descriptivos de las variables
+
+```{r}
+frq(Base_elsoc_filt$Ingresos)
+```
+
+En la primera variable logramos observar como los datso perdidos por No sabe o no responde se llevan un porcentaje de los encuestados, por lo que deben ser eliminados para una mayor precisión a la hora de la interpretación.
+
+A la misma vez, logramos observar que existe una tendencia positiva a evaluar muy injusta e injusta la situación de vida entre clases baja y alta.
+
+```{r}
+frq(Base_elsoc_filt$Desigualdad)
+```
+
+En segunda instancia, observamos los descriptivos de la variable Desigualdad, en donde se aprecia que existe una alta presencia de acuerdo entre los encuestados para indicar que en Chile se presentan altos í­ndices de diferencias de ingresos.
+
+```{r}
+frq(Base_elsoc_filt$Sexo)
+```
+
+Finalmente, en la variable sexo logramos captar que hay una fuerte presencia del género femenino en la encuesta, por lo que probablmente los resultados indiquen mayor preponderancia hacia este género.
+
+#### Casos perdidos eliminados
+
+```{r}
+Base_elsoc_filt <- Base_elsoc_filt %>% set_na(., na = c(-999, -888, -777, -666))
+```
+
+### Recodificación de variables
+
+#### Variable sexo
+
+Para la variable sexo se utilizó el proceso de recodificación, con la finalidad de convertirla en una variable Dummy. Es decir, en dos categorias, donde el 1 = representa a las mujeres y el 0 = representa a los hombres.
+
+```{r}
+Base_elsoc_filt$Sexo <- car::recode(Base_elsoc_filt$Sexo, "1=0;2=1")
+Base_elsoc_filt$Sexo <- factor(Base_elsoc_filt$Sexo,
+                         labels=c( "Hombre",
+                                   "Mujer"),
+                         levels=c(0,1))
+```
+
+#### Nombres sustantivos para las variables
+
+```{r}
+#Nombres sustantivos
+Base_elsoc_filt$Ingresos <- set_label(x = Base_elsoc_filt$Ingresos,label = "Desigualdad de Ingresos")
+get_label(Base_elsoc_filt$Ingresos)
+
+Base_elsoc_filt$Desigualdad <- set_label(x = Base_elsoc_filt$Desigualdad,label = "Percepción de Desigualdad")
+get_label(Base_elsoc_filt$Desigualdad)
+
+Base_elsoc_filt$Edad <- set_label(x = Base_elsoc_filt$Edad,label = "Edad Encuestados")
+get_label(Base_elsoc_filt$Edad)
+
+Base_elsoc_filt$Sexo <- set_label(x = Base_elsoc_filt$Sexo,label = "Sexo Encuestados")
+get_label(Base_elsoc_filt$Sexo)
+
+Base_elsoc_filt$Pensiones <- set_label(x = Base_elsoc_filt$Pensiones,label = "Justicia distributiva Pensiones")
+get_label(Base_elsoc_filt$Pensiones)
+
+Base_elsoc_filt$Educacion <- set_label(x = Base_elsoc_filt$Educacion,label = "Justicia distributiva Educacion")
+get_label(Base_elsoc_filt$Educacion)
+
+Base_elsoc_filt$Salud <- set_label(x = Base_elsoc_filt$Salud,label = "Justicia distributiva Salud")
+get_label(Base_elsoc_filt$Salud)
+```
+
+#### Re etiquetado de variables
+
+```{r}
+Base_elsoc_filt$Ingresos <- set_labels(Base_elsoc_filt$Ingresos,
+                                 labels=c( "Muy injusta"=1,
+                                           "Injusta"=2,
+                                           "Ni injusta ni justa"=3,
+                                           "Justa"=4,
+                                           "Muy justa"=5))
+
+Base_elsoc_filt$Desigualdad <- set_labels(Base_elsoc_filt$Desigualdad,
+                                  labels=c( "Totalmente de desacuerdo"=1,
+                                            "Desacuerdo"=2,
+                                            "Ni en desacuerdo ni de acuerdo"=3,
+                                            "De acuerdo"=4,
+                                            "Totalmente de acuerdo"=5))
+```
+
+#### Variable Edad
+
+La variable edad no sufrió grandes modificaciones. Sin embargo, se le añadió como label=edad, para cuando esta se graficara tuviera la etiqueta correspondiente a su nombre y fuera más factible de identificar.
+
+### Tablas
+
+```{r}
+Base_elsoc_filt <-as.data.frame(Base_elsoc_filt)
+stargazer(Base_elsoc_filt, type="text")
+```
+
+La primera tabla que logramos obtener es la descriptiva que contienen las 6 variables que vamos a trabajar. Aquí se aprecia la media de las 3 variables, donde el Ingreso contiene una media de 1,8, la variable Desigualdad por su parte tiene una media de 4.2 y la Edad con una media de 22.6
+
+En una segunda instancia, obtuvimos la tabla de manera mÃ¡s completa.
+
+```{r}
+sjmisc::descr(Base_elsoc_filt,
+              show = c("label","range", "mean", "sd", "NA.prc", "n"))%>%
+  kable(.,"markdown")
+```
+
+A partir de esta tabla, se obtienen valoes como la desviación estandar, media, rango y número de casos. Junto con ello, una mejor apreciación de las variables ya que cada una de ellas aparece con su etiqueta correspondiente.
+
+Desde sus reesultados, nuevamente se puede manifestar una inclinación por parte de la población a que existe grandes diferencias de desigualdad y que situación de vida entre clases sociales bajas y altas es injusta.
+
+#### Gráficos
+
+```{r}
+Base_elsoc_filt %>% ggplot(aes(x = Ingresos)) + 
+  geom_bar(fill = "coral")+
+  labs(title = "Grado de Desigualdad Economica",
+       x = "Percepción de Desigualdad economica",
+       y = "Frecuencia")
+```
+
+Por medio del primer gráfico correspondiente a la variable Ingresos, apreciamos que los resultados se concentran en las categoria 1 y 2 que representan una sensación de injusticia ante la situación de vida que presenta una persona de clase social alta en comparación a la una de clase social baja.
+
+```{r}
+Base_elsoc_filt %>% ggplot(aes(x = Desigualdad)) + 
+  geom_bar(fill = "coral")+
+  labs(title = "Desigualdad de clase",
+       x = "PercepciÃ³n entre clases sociales",
+       y = "Frecuencia")
+```
+
+Siguiendo la misma lógica, en la variable "Desigualdad" se encuentra una mmyor concentración de respuestas en lcas categorias 4 y 5 las cuales índican un alto grado de acuerdo en que en Chile existen grandes diferencias de ingresos, una mayor desigualdad económica.
+
+#### Tablas de contingencia
+
+```{r}
+sjt.xtab(Base_elsoc_filt$Ingresos, Base_elsoc_filt$Sexo)
+```
+
+![Por medio del cruzamiento de variables a través de una tabla de contingencia, obtenemos datos relevantes para el analisis. Como dijimos con anterioridad, hay una fuferte percepción de injusticia entre la vida de los mas pobres y mas ricos, siendo las mujeres las cuales poseen un mayor peso en la muestra. Además, ambos sexos presentan una inclinación equitativa hacia las categorias de injusticia.](images/clipboard-2187587990.png)
+
+```{r}
+sjt.xtab(Base_elsoc_filt$Sexo, Base_elsoc_filt$Desigualdad, encoding = "UTF-8")
+```
+
+![Desde la segunda tabla de contigencia, obtenemos el cruce entre sexo y percepción de desigualdad. Como en el caso anterior, ambos sexos muestran una fuerte inclinación hacia un alto grado de acuerdo respecto a que en Chile hay grandes diferencias de ingresos economicos, con una alta presencia femenina.](images/clipboard-363481956.png)
+
+### Tabla con porcentajes
+
+```{r}
+sjt.xtab(Base_elsoc_filt$Ingresos, Base_elsoc_filt$Sexo,
+         show.col.prc=TRUE,
+         show.summary=FALSE,
+         encoding = "UTF-8")
+```
+
+![](images/clipboard-1215225401.png)
+
+En esta etapa, las tablas de contingencia las transformamos a porcentajes para una mejor evaluación del analisis. En base a esto, hay un mayor prorcentaje de mujeres que hombres los cuales indican una mayor presencia de injusticia entre las clases sociales. Mientras que si sumamos las dos categorias de "Muy injusta" e"Injusta" resulta que los hombres obtienen mayor presencia.
+
+```{r}
+sjt.xtab(Base_elsoc_filt$Desigualdad, Base_elsoc_filt$Sexo,
+         show.col.prc=TRUE,
+         show.summary=FALSE,
+         encoding = "UTF-8")
+
+```
+
+![Finalmente, de acuerdo con los porcentajes, nuevamente se logra identificar que hay una gran presencia femenina y masculina en los grados de acuerdo, coincidiendo altamente entre ellos. Siendo muy vaga la respuesta contraria que indicaria que no hay presencia de diferencia de ingresos economicos.](images/clipboard-2185268906.png)
+
+#### Correlación
+
+Para la realización de la correlación y escala se utilizarán las 3 variables restantes que no utilizamos en el primer analisis descriptivo, pero que sí fué seleccionada dentro de la base de datos. Para esto tomaremos en cuenta estas variables ya que cuentan un mismo sentido en sus categorias de respuesta y apuntan hacia el mismo fenomeno investigativo de Justicia distributiva en terminos de Pensiones, de Educación y de Salud.
+
+```{r}
+Base_elsoc_filt$Pensiones <- recode(Base_elsoc_filt$Pensiones, "1=0; 2=1; 3=2; 4=3; 5=4")
+Base_elsoc_filt$Educacion <- recode(Base_elsoc_filt$Educacion, "1=0; 2=1; 3=2; 4=3; 5=4")
+Base_elsoc_filt$Salud <- recode(Base_elsoc_filt$Salud, "1=0; 2=1; 3=2; 4=3; 5=4")
+```
+
+En principio, las variables contienen el mismo sentido, pero son recodificadas para poder iniciar las categorias de respuesta desde el cero, esto nos permitirá realizar más adelante la escala.
+
+```{r}
+frq(Base_elsoc_filt$Pensiones)
+```
+
+```{r}
+frq(Base_elsoc_filt$Educacion)
+```
+
+```{r}
+frq(Base_elsoc_filt$Salud)
+```
+
+```{r}
+Base_elsoc_filt$Pensiones <- set_labels(Base_elsoc_filt$Pensiones,
+                              labels=c( "Totalmente en desacuerdo"=0,
+                                        "En desacuerdo"=1,
+                                        "Ni de acuerdo ni en desacuerdo"=2,
+                                        "De acuerdo"=3,
+                                        "Totalmente de acuerdo"=4))
+```
+
+```{r}
+Base_elsoc_filt$Educacion <- set_labels(Base_elsoc_filt$Educacion,
+                                        labels=c( "Totalmente en desacuerdo"=0,
+                                                  "En desacuerdo"=1,
+                                                  "Ni de acuerdo ni en desacuerdo"=2,
+                                                  "De acuerdo"=3,
+                                                  "Totalmente de acuerdo"=4))
+```
+
+```{r}
+Base_elsoc_filt$Salud <- set_labels(Base_elsoc_filt$Salud,
+                                        labels=c( "Totalmente en desacuerdo"=0,
+                                                  "En desacuerdo"=1,
+                                                  "Ni de acuerdo ni en desacuerdo"=2,
+                                                  "De acuerdo"=3,
+                                                  "Totalmente de acuerdo"=4))
+```
+
+```{r}
+frq(Base_elsoc_filt$Pensiones)
+```
+
+```{r}
+frq(Base_elsoc_filt$Educacion)
+```
+
+```{r}
+frq(Base_elsoc_filt$Salud)
+```
+
+Se recodifican las etiquetas de las categorias de respuesta y se vuelve a verificar mediante la tabla de datos descriptivos.
+
+```{r}
+M <- cor(Base_elsoc, use = "complete.obs") # Usar solo casos con observaciones completas
+```
+
+```{r}
+corrplot.mixed(M)
+```
+
+En un principio contamos con un gráfico de correlación con todas las variables que anteriormente hemos selecionado en nuestra base de datos. Por lo que se realiza una segunda versión que contenga solo las tres variables que buscamos investigar.
+
+```{r}
+M2 <- cor(dplyr::select(Base_elsoc_filt, Pensiones, Educacion, Salud), use = "complete.obs")
+corrplot.mixed(M2)
+```
+
+Por medio de la correlación de las tres variables sobre justicia distributiva podemos índicar que de acuerdo con el gráfico existe una correlación de caracter positivo, diferenciando en su nivel. Por una parte tenemos una correlación moderada ya que se encuentran valores en 0,47 y 0,48. Mientras que existe una correlación alta con un valor de 0,73.
+
+#### Escala
+
+```{r}
+psych::alpha(dplyr::select(Base_elsoc_filt, Pensiones, Educacion, Salud))
+```
+
+Al realizar la escala entre los tres items de Justicia distributiva en Pensiones, Educación y Salud se logra apreciar que existe una alta consistencia interna entre estos, con un valor de 0,78. En este caso, si sacamos la variable "Pensiones" el valor subiría a un 0,84 con una mayor consistencia. Pese a esto, se presenta un valor totalmente alto entre las 3.
+
+```{r}
+Base_elsoc_filt <- Base_elsoc_filt %>% 
+  rowwise() %>% 
+  mutate(Justicia_distributiva = sum(Pensiones, Educacion, Salud))
+```
+
+```{r}
+summary(Base_elsoc_filt$Justicia_distributiva)
+```
+
+Ya realizada la escala, obtenemos sus datos descriptivos. Entre los que podemos identificar que la media es de un 2,56 por lo que los casos tienden a centrarse en valores que poseen una percepción de injusticia distributiva en Pensiones, Educación y Salud. Por otra parte, el rango de valores entre los que varía la escala es de 0 a 12.
+
+```{r}
+ggplot(Base_elsoc_filt, aes(x = Justicia_distributiva)) +
+  geom_histogram(binwidth=0.6, colour="black", fill="yellow") +
+  theme_bw() +
+  xlab("Justicia distributiva") +
+  ylab("Cantidad")
+```
+
+A partir de la construcción de la escala a través de las variables de Justicia distributiva de Pensiones, Educación y Salud se demuestra que en su mayoría la concentración de casos están en la categoria 4, mientras que según los estadísticos descriptivos la media es de 2,65, lo que índica que hay una alta percepción de injusticia distributiva. Mientras que los casos que presentan una percepción se Justicia distributiva son casi nulos.
+
+#### Conclusiones
+
+En base a lo anterior y los datos entregados por la Encuesta ELSOC del año 2016 elaborada por el COES logramos identificar que en la población existe una alta percepción de desigualdad y de diferencia de vida entre las clases sociales. Identificando patrones de respuesta parecidos entre los encuestados pese a que sean de distintos sexos.
+
+Esto avala que en nuestro paí­s sea evaluado como uno de los más desiguales de latinoamerica, constando que la mayor cantidad de ingresos que recaen en el país son distribuidos en forma de disparidad.
+
+Además, mediante la correlación y la construcción de la escala se pudo indagar en el fenomeno de percepción de justicia distributiva la cual nos entregó que de manera general los encuestados consideran que hay una alta presencia de injusticia distributiva en las Pensionas, en la Educación y la Salud con una diferenciación respecto a clases sociales.
