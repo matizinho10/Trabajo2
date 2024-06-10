@@ -473,22 +473,36 @@ stargazer(reg1, type="text")
 
 Para este caso, el intercepto es de 2,612, el cual es el mismo valor que toma la media.
 
-#### Regresión lineal simple 
+#### Regresión múltiple
 
 ```{r}
-reg2 <- lm(Justicia_distributiva ~ Edad, data=Base_elsoc_filt)
-reg3 <- lm(Justicia_distributiva ~ Sexo, data=Base_elsoc_filt)
+reg5 <- lm(Justicia_distributiva ~ Edad + Clasesocial, data=Base_elsoc_filt)
+reg6 <- lm(Justicia_distributiva ~ Edad + Sexo, data=Base_elsoc_filt)
+reg7 <- lm(Justicia_distributiva ~ Clasesocial + Sexo, data=Base_elsoc_filt)
+reg8 <- lm(Justicia_distributiva ~ Edad + Clasesocial + Sexo, data=Base_elsoc_filt)
 
-knitreg(list(reg2, reg3), 
+knitreg(list(reg5, reg6, reg7, reg8), 
         custom.model.names = c("Modelo 1",
-                               "Modelo 2"),
+                               "Modelo 2",
+                               "Modelo 3",
+                               "Modelo 4"),
         custom.note = "*** p < 0.001; ** p < 0.01; * p < 0.05",
         custom.coef.names = c("Intercepto", 
                               "Edad",
+                              "Clase baja <br> <i>(Ref. Clase alta)</i>", 
+                              "Clase media", 
                               "Mujer <br> <i>(Ref. Hombre)</i>"),
         caption = "Justicia distributiva",
-        caption.above = TRUE) 
+        caption.above = TRUE)
 ```
+
+En primer lugar, por medio del modelo 1 podemos evidenciar que ninguna de las variables tienen un nivel de significancia importante. Además, podemos deducir que cada vez que la edad va disminuyendo la percepción de justicia distributiva va aumentando. Por su parte, la clase social no tiene tampoco un efecto significativo en la percepción de justicia distributiva. Sin embargo, se puede indicar que la ser de clase baja con un -0,11 contribuye a una percepción de injusticia distributiva.
+
+Por medio del modelo 2, al contener la variable edad, se puede apreciar un nivel de significancia. Con un 95% de confianza se puede establecer que en un -0,37 las mujeres tendrian menos percepción de justicia distributiva que los hombres en terminos de salud, educación y pensiones, lo cual podemos extrapolar a la población en general.
+
+A partir de los modelos 3 y 4 encontramos valores similares. La edad al igual que en el modelo 1 mientras la edad disminuye, la justicia distributiva aumenta. También en ambos modelos las mujeres tienden a tener una mayor percepción de injusticia.
+
+Finalmente, los 4 modelos poseen baja expliación de la varianza de la variable dependiente rondando el 0 y 1%
 
 #### Conclusiones
 
