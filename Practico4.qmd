@@ -13,32 +13,41 @@ title-slide-attributes:
 
 ::: {.incremental}
 
-- El Banco mundial estableciendo a Chile como unas de las economías latinas de mas rápido crecimiento reduciendo los niveles de pobreza de un 26% a un 7,9% (mieresbrevis2020?)
+- Chile obtiene uno de los niveles más altos en Latinoamerica y el Caribe de producto interno bruto por habitantes, generando así un camino hacia una economía más desarrollada y rica (solimano2018?).
 
-- Según los Sociologos Atria & Otero donde ambos índican que se aprecia que tan solo el top 1% chileno más rico accede al 30% del total de la recaudación nacional, mientras que el 50% más pobre solamente presenta el 10% total nacional (impuesto2021?)
+- El Banco mundial estableciendo a Chile como unas de las economías latinas de mas rápido crecimiento reduciendo los niveles de pobreza de un 26% a un 7,9% (mieresbrevis2020?)
 
 :::
 
-# Variables El SOC 2016
+# Introducción 
 
 ::: {.incremental}
 
-:::: {.columns}
+- Según los Sociologos Atria & Otero donde ambos índican que se aprecia que tan solo el top 1% chileno más rico accede al 30% del total de la recaudación nacional, mientras que el 50% más pobre solamente presenta el 10% total nacional (impuesto2021?)
 
-::: {.column width="50%"}
+- Como propuesta central a investigar el grado de percepción de desigualdad que poseen los chilenos y chilenas según su sexo, edad y clase social, con tal de poder identificar las sensaciones y pensamientos que tienen las clases sociales
+
+:::
+
+# Variables
+
+::: {.incremental}
+
+Base ELSOC del Coes año 2016
+
+- Sexo
+- Edad
 - 1)  C18_11: En chile, las diferencias de ingresos son demasiado grandes.
 - 2)  d19: ¿Y cuan justa o injusta cree ud que es la diferencia en la situación de vida entre las personas de clase social alta y las de clase social baja en Chile?.
-- 3)  d02_01: Es justo que las personas de altos ingresos tengan mejores pensiones que las personas de ingresos más bajos.
+
 :::
 
-::: {.column width="50%"}
+# Variables
+
 - 4)  d02_02 : Es justo que las personas de altos ingresos tengan mejor educación para sus hijos que las personas de ingresos más bajos.
 - 5)  d02_03: Es justo que las personas de altos ingresos puedan acceder a una mejor atención de salud que las personas de ingresos más bajos.
-:::
+- 3)  d02_01: Es justo que las personas de altos ingresos tengan mejores pensiones que las personas de ingresos más bajos.
 
-::::
-
-:::
 
 # Descriptivos
 
@@ -100,21 +109,7 @@ Existe una percepción de injusticia en salud sin diferenciación por sexo.
 
 ::: {.column width="70%"}
 ![](output/graph4.png)
-:::
 
-::::
-
-
-# Escala
-
-:::: {.columns}
-
-::: {.column width="40%"}
-Según la escala se aprecia que los datos están concentrados en los valores más bajos, que significa una percepción de justicia distributiva negativa. 
-:::
-
-::: {.column width="60%"}
-![](output/graph5.png)
 :::
 
 ::::
@@ -126,13 +121,28 @@ Según la escala se aprecia que los datos están concentrados en los valores má
 :::: {.columns}
 
 ::: {.column width="40%"}
-Son correlaciones de carácter moderado
+Son correlaciones de carácter moderado.
 La justicia distributiva en salud en la que tiene mayor correlación 0,56 negativa.
 
 :::
 
 ::: {.column width="60%"}
 ![](output/screen2.png)
+:::
+
+::::
+
+# Escala
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Según la escala se aprecia que los datos están concentrados en los valores más bajos, que significa una percepción de justicia distributiva negativa. 
+:::
+
+::: {.column width="60%"}
+![](output/graph5.png)
+
 :::
 
 ::::
@@ -146,3 +156,11 @@ La justicia distributiva en salud en la que tiene mayor correlación 0,56 negati
 En la población existe una alta percepción de desigualdad y de diferencia de vida entre las clases sociales. Identificando patrones de respuesta parecidos entre los encuestados pese a que sean de distintos sexos.
 
 De manera general los encuestados consideran que hay una alta presencia de injusticia distributiva en las Pensionas, en la Educación y la Salud
+
+# Conclusiones
+
+Pese a que mientras más disminuye la edad mayor es la percepción de una injusticia distributiva 
+
+
+
+
