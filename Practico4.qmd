@@ -1,5 +1,5 @@
 ---
-title: "Percepción desigualdad"
+title: "Percepción de desigualdad en el año 2016"
 author: "Matías Salas"
 format: revealjs
 editor: visual
